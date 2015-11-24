@@ -1,2 +1,2 @@
 # DeleteLineFromNFiles
-Remove some line from N Files using a keyword.
+Remove some lines from N Files using a keyword.
